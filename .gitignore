@@ -1,2 +1,5 @@
-/target
+/target/*
+!/target/
+!/target/criterion/
+!/target/criterion/report/
 !/target/criterion/report/index.html
